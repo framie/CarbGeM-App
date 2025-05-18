@@ -1,4 +1,4 @@
-# Agar Plate Zone Analyzer (React + Mantine)
+# Zone of Inhibition Measurement App
 
 This is a frontend React application built with Vite, TypeScript, and Mantine UI that interacts with an Express.js + Python backend. It allows users to upload images of agar plates with antibiotic disks and view analyzed results with zones of inhibition overlaid.
 
